@@ -1,0 +1,21 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1,
+p
+{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.find{
+  text-align: center;
+}
+.jumbotron{
+  margin-top: 52px;
+}
+.nav-link{
+  font-weight: bold;
+}
